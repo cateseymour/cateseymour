@@ -6,7 +6,7 @@
 💡 About Me: I am an ordained minister!
 Passionate about data analysis, behavioral science, and technology
 Experienced in R, Python, GIS, SPSS, and Qualtrics
-Background in research, finance, and digital marketing 
+Background in psychology research, finance, and digital marketing 
 Love exploring live music, movies, hiking, and soccer
 
 
